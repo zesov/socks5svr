@@ -1,0 +1,18 @@
+{
+  "name": "socks5svr",
+  "version": "1.0.0",
+  "description": "欢迎使用 Codeup，通过阅读以下内容，你可以快速熟悉 Codeup ，并立即开始今天的工作。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://codeup.aliyun.com/61725e50ec3d2c4a303ce091/socks5svr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socksv5": "0.0.6"
+  }
+}
